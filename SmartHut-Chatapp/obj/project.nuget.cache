@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "LKFIEirP4IAjFDxnZvS8JIMtUH1hLjaQSuWkYfco4p7sMU71pcjn1ZqiS+m5F9BVOyuPEbcpQg3pRe/dJFySTg==",
+  "dgSpecHash": "m4CVcCVUgK5WnWzElMWDO8y2FrUw5K54byheytchb0hjAaS/xSMa8/TcMYcQ8Zi+nnkQjaEApq8qmUBgzvDytg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jonas\\Desktop\\myCode\\1. Skola\\Webbutveckling .NET\\Kurser\\7, Webbapplikationer med Realtidskommunikation\\Inlämning 8\\SmartHut-Chatapp-Blazor\\SmartHut-Chatapp\\SmartHut-Chatapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.8\\microsoft.aspnetcore.connections.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.8\\microsoft.aspnetcore.http.connections.client.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\3.1.8\\microsoft.aspnetcore.http.connections.common.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.8\\microsoft.aspnetcore.http.features.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\3.1.8\\microsoft.aspnetcore.signalr.client.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\3.1.8\\microsoft.aspnetcore.signalr.client.core.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\3.1.8\\microsoft.aspnetcore.signalr.common.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\3.1.8\\microsoft.aspnetcore.signalr.protocols.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.8\\microsoft.extensions.configuration.binder.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.logging\\3.1.8\\microsoft.extensions.logging.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.8\\microsoft.extensions.logging.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.options\\3.1.8\\microsoft.extensions.options.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.io.pipelines\\4.7.2\\system.io.pipelines.4.7.2.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -45,101 +45,55 @@
         }
       },
       {
-        "HashCode": -442541704,
+        "HashCode": 2057937529,
         "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Counter",
+        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
         "AssemblyName": "SmartHut-Chatapp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Counter"
+          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": -1003837096,
+        "HashCode": -1954000364,
         "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Counter",
+        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
         "AssemblyName": "SmartHut-Chatapp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SmartHut_Chatapp.Pages.Counter"
+            "TagName": "SmartHut_Chatapp.Shared.SurveyPrompt"
           }
         ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2135745817,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.FetchData",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
+        "BoundAttributes": [
           {
-            "TagName": "FetchData"
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 975524835,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.FetchData",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1524886826,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Index",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1428747494,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Index",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Index",
+          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -273,55 +227,101 @@
         }
       },
       {
-        "HashCode": 2057937529,
+        "HashCode": 2135745817,
         "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
+        "Name": "SmartHut_Chatapp.Pages.FetchData",
         "AssemblyName": "SmartHut-Chatapp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt"
+          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData"
         }
       },
       {
-        "HashCode": -1954000364,
+        "HashCode": 975524835,
         "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
+        "Name": "SmartHut_Chatapp.Pages.FetchData",
         "AssemblyName": "SmartHut-Chatapp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SmartHut_Chatapp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
+            "TagName": "SmartHut_Chatapp.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -442541704,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Counter",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1003837096,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Counter",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SmartHut_Chatapp.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1524886826,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Index",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1428747494,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Index",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SmartHut_Chatapp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

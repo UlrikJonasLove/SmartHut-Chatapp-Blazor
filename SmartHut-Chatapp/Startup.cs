@@ -50,6 +50,7 @@ namespace SmartHut_Chatapp
             {
                 endpoints.MapBlazorHub();
                 endpoints.MapFallbackToPage("/_Host");
+                endpoints.MapHub<ChatHub>(ChatHub.HubUrl);
             });
         }
     }
