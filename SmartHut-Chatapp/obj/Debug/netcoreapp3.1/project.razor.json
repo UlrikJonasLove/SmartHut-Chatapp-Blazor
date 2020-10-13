@@ -227,39 +227,6 @@
         }
       },
       {
-        "HashCode": 2135745817,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.FetchData",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 975524835,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.FetchData",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -442541704,
         "Kind": "Components.Component",
         "Name": "SmartHut_Chatapp.Pages.Counter",
@@ -14713,11 +14680,6 @@
     {
       "FilePath": "c:\\Users\\jonas\\Desktop\\myCode\\1. Skola\\Webbutveckling .NET\\Kurser\\7, Webbapplikationer med Realtidskommunikation\\Inlämning 8\\SmartHut-Chatapp-Blazor\\SmartHut-Chatapp\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\jonas\\Desktop\\myCode\\1. Skola\\Webbutveckling .NET\\Kurser\\7, Webbapplikationer med Realtidskommunikation\\Inlämning 8\\SmartHut-Chatapp-Blazor\\SmartHut-Chatapp\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
