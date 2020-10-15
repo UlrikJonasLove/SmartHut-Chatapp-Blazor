@@ -12,92 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 732477327,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.App",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.App"
-        }
-      },
-      {
-        "HashCode": 947308953,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.App",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2057937529,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1954000364,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -923599201,
         "Kind": "Components.Component",
         "Name": "SmartHut_Chatapp.Shared.MainLayout",
@@ -227,6 +141,59 @@
         }
       },
       {
+        "HashCode": 2057937529,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1954000364,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Shared.SurveyPrompt",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SmartHut_Chatapp.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -442541704,
         "Kind": "Components.Component",
         "Name": "SmartHut_Chatapp.Pages.Counter",
@@ -289,6 +256,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SmartHut_Chatapp.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 732477327,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.App",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.App"
+        }
+      },
+      {
+        "HashCode": 947308953,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.App",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SmartHut_Chatapp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
