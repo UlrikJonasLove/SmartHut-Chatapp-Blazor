@@ -10,7 +10,19 @@ namespace SmartHut_Chatapp
 
         public async Task Message(string username, string message) 
         {
-            await Clients.All.SendAsync("Message", username, message);
+            await Clients.All.SendAsync("SendMessage", username, message);
+        }
+
+        public override Task OnConnectedAsync()
+        {
+            Console.WriteLine($"{Context.ConnectionId} connected");
+            return base.OnConnectedAsync();
+        }
+
+        public override async Task OnDisconnectedAsync(Exception err) 
+        {
+            Console.WriteLine($"Disconnected {err?.Message} {Context.ConnectionId}");
+            await base.OnDisconnectedAsync(err);
         }
     }
 }
