@@ -5,13 +5,13 @@
 <h1>SmartHut Messenger</h1>
 <hr />
 
+
 @if(!ifChatting) 
 {
     <p>Ange ditt namn</p>
 
     <input type="text" maxlength="32" @bind="@userName" />
-    <button type="button" @onclick="@Chat"><span class="oi oi-chat" aria-hidden="true"></span>Anslut</button>
-
+    <button class="btn btn-outline-success"type="button" @onclick="@Chat"><span class="oi oi-chat" aria-hidden="true"></span>Anslut</button>
     @if(theMessage != null)
     {
         <div class="invalid-feedback">@theMessage</div>
@@ -45,9 +45,11 @@ else
 
         <hr />
         <textarea class="input-lg" placeholder="Skriv ditt meddelande..." @bind="@newMessage"></textarea>
-        <button class="btn btn-default" @onclick="@(() => userNotification(newMessage))">Skicka</button>
+        <button class="btn btn-outline-success" @onclick="@(() => userNotification(newMessage))">Skicka</button>
     </div>
+
 }
+
 
 @code {
     private bool ifChatting = false;
