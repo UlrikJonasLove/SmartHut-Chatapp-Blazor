@@ -8,7 +8,7 @@ namespace SmartHut_Chatapp
     {
         public const string HubUrl = "/chat";
 
-        public async Task Message(string username, string message) 
+        public async Task SendMessage(string username, string message) 
         {
             await Clients.All.SendAsync("SendMessage", username, message);
         }

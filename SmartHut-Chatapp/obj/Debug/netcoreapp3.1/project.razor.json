@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1524886826,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Index",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1428747494,
-        "Kind": "Components.Component",
-        "Name": "SmartHut_Chatapp.Pages.Index",
-        "AssemblyName": "SmartHut-Chatapp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SmartHut_Chatapp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "SmartHut_Chatapp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 732477327,
         "Kind": "Components.Component",
         "Name": "SmartHut_Chatapp.App",
@@ -256,6 +223,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "SmartHut_Chatapp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1524886826,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Index",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1428747494,
+        "Kind": "Components.Component",
+        "Name": "SmartHut_Chatapp.Pages.Index",
+        "AssemblyName": "SmartHut-Chatapp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SmartHut_Chatapp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "SmartHut_Chatapp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
