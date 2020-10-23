@@ -85,7 +85,7 @@ else
 
             hubConnection.On<string, string>("SendMessage", sMessage);
                 await hubConnection.StartAsync();
-                await userNotification($"[Lyssna och Häpna] {userName} har anslutit");
+                await userNotification($"Notis || {userName} har anslutit");
         }
         catch(Exception err)
         {
@@ -106,7 +106,7 @@ else
     {
         if(ifChatting)
         {
-            await userNotification($"[Lyssna och Häpna] {userName} har kopplats ifrån");
+            await userNotification($"Notis || {userName} har kopplats ifrån");
 
             await hubConnection.StopAsync();
             await hubConnection.DisposeAsync();
@@ -139,7 +139,7 @@ else
         public string Body { get; set;}
         public bool Mine { get; set; }
 
-        public bool IsNotice => Body.StartsWith("[Lyssna och Häpna]");
+        public bool IsNotice => Body.StartsWith("Notis");
         public string CSS => Mine ?  "sent" : "received";
     }
  }
